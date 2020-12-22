@@ -18,7 +18,6 @@ def MyTree():
     Example home directory tree:
     python3 MyTree.py ~/
 
-    myname = '446d69747269657620566173696c79205061766c6f76696368'
     myemail = '646976696b733230303840676d61696c2e636f6d'
     '''
     try:
